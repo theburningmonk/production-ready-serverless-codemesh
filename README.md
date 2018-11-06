@@ -1,2 +1,3 @@
-# production-ready-serverless-codemesh
-Public workshop with CodeMesh
+# production-ready-serverless-workshop-codemesh
+
+Public workshop at CodeMesh

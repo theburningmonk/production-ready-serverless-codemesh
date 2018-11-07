@@ -4,7 +4,7 @@
 
 **Goal:** Write integration tests
 
-In the demo project, you will find a basic folder structure already
+In the demo project, create the basic folder structure for our tests
 
 ```
 tests
